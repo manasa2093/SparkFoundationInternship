@@ -1,2 +1,2 @@
 # SparkFoundationInternship
-Internship-Task1-LinearRegression
+Internship-Task2-LinearRegression
